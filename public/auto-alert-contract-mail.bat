@@ -1,0 +1,1 @@
+cd /d D:\laragon\www\QuanLyHopDong-Sale && php artisan schedule:run >> /dev/null 2>&1
